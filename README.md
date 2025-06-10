@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owais Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owais-khan-1" alt="owais-khan-1" /></a> </p>
-
 - 🌱 I’m currently learning **Express JS, Mongo DB.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Owais-khan-1](https://github.com/Owais-khan-1)
