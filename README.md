@@ -1,28 +1,148 @@
-<h1 align="center">Hi 👋, I'm Owais Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# 👋 Welcome to My Creative Code Space!
 
-- 🌱 I’m currently learning **Node JS, Express JS, Mongo DB.**
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Owais+Khan+👨‍💻;Frontend+Developer+%26+UI+Wizard+✨;React+Specialist+⚛️;)
+  
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Owais-khan-1](https://github.com/Owais-khan-1)
+---
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS, GSAP, Framer Motion, Locomotive JS, Lennis JS**
+## 🚀 About Me
 
-- 📫 How to reach me **khanowaiszai@gmail.com**
+I'm a passionate **Frontend Developer** from Pakistan 🇵🇰, specializing in creating **stunning animated UIs** and **modern web experiences**. I transform static designs into interactive, smooth, and engaging user interfaces that users love to interact with.
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGO3KWIlU4/Olb5EpsncuWcneXZDn_7MQ/view?utm_content=DAGO3KWIlU4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he40282b0df](https://www.canva.com/design/DAGO3KWIlU4/Olb5EpsncuWcneXZDn_7MQ/view?utm_content=DAGO3KWIlU4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he40282b0df)
+🎨 **What I Create:**
+- **Animated UIs** with smooth transitions and micro-interactions
+- **Modern Web Designs** following latest design trends and best practices
+- **Interactive Experiences** using advanced animation libraries
+- **Responsive Applications** that work seamlessly across all devices
+- **Performance-Optimized** solutions with clean, maintainable code
 
-- ⚡ Fun fact **I love turning boring UIs into smooth, animated experiences.**
+🌱 **Currently Learning:**
+- **Backend Development**: Node.js & Express.js for full-stack capabilities
+- **Database Management**: MongoDB for robust data solutions  
+- **API Development**: Building RESTful services and integrations
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/owais-khan-frontend/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/owais-khan-frontend/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61558639961466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61558639961466" height="30" width="40" /></a>
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 🎨 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### ⚡ Animation & Interaction Libraries
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/Locomotive_JS-000000?style=for-the-badge&logo=locomotive&logoColor=white" alt="Locomotive JS"/>
+  <img src="https://img.shields.io/badge/Lenis_JS-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white" alt="Lenis JS"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owais-khan-1&show_icons=true&locale=en&layout=compact" alt="owais-khan-1" /></p>
+### 🔧 Backend & Database (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Skills" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owais-khan-1&show_icons=true&locale=en" alt="owais-khan-1" /></p>
+### 🛡️ Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Tools" />
+</p>
 
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owais-khan-zai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owais-khan-zai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owais-khan-zai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+  
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=owais-khan-zai&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+  
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🌱 Currently Learning**
+- Full-Stack Development (MERN Stack)
+- Advanced Node.js & Express.js
+- MongoDB Database Design
+- RESTful API Development
+- Authentication & Authorization
+
+</td>
+<td align="center" width="50%">
+
+**🚀 Building**
+- Interactive Portfolio Website
+- E-commerce Platform with Animations
+- Modern Dashboard with GSAP
+- Full-Stack Web Applications
+- Open Source UI Components
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+### 📱 **Connect With Me**
+
+<a href="https://www.linkedin.com/in/owais-khan-frontend/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=61558639961466" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+</a>
+<a href="mailto:khanowaiszai@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+</a>
+
+### 📄 **Professional Links**
+<a href="https://www.canva.com/design/DAGO3KWIlU4/Olb5EpsncuWcneXZDn_7MQ/view?utm_content=DAGO3KWIlU4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he40282b0df" target="_blank">
+  <img src="https://img.shields.io/badge/My_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FF5722" alt="Resume" />
+</a>
+<a href="https://github.com/owais-khan-zai" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white&labelColor=12100E" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true&animation=fadeIn)
+  
+</div>
