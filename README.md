@@ -66,11 +66,14 @@ I'm a passionate **Frontend Developer** from Pakistan 🇵🇰, specializing in 
   
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owais-khan-zai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-  
-</div>
+<p align="center">
+  <a href="https://github.com/owais-khan-zai">
+    <img src="https://streak-stats.vercel.app?user=owais-khan-zai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  </a>
+</p>
+
+
+
 
 ---
 
@@ -139,10 +142,3 @@ I'm a passionate **Frontend Developer** from Pakistan 🇵🇰, specializing in 
 
 </div>
 
----
-
-<div align="center">
-  
-  ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true&animation=fadeIn)
-  
-</div>
