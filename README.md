@@ -125,7 +125,7 @@ I'm a passionate **Frontend Developer** from Pakistan 🇵🇰, specializing in 
 <a href="https://www.linkedin.com/in/owais-khan-frontend/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=61558639961466" target="_blank">
+<a href="https://www.facebook.com/khanowaiszai" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
 </a>
 <a href="mailto:khanowaiszai@gmail.com">
