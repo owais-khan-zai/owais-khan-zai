@@ -133,7 +133,7 @@ I'm a passionate **Frontend Developer** from Pakistan 🇵🇰, specializing in 
 </a>
 
 ### 📄 **Professional Links**
-<a href="https://www.canva.com/design/DAG3FweohWg/Gaz8XINAgvuIuKjdU_Op5Q/view?utm_content=DAG3FweohWg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0155420122" target="_blank">
+<a href="https://www.canva.com/design/DAG3FweohWg/NGmYBV5mmYPZ-Y5WakqQrA/edit?utm_content=DAG3FweohWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
   <img src="https://img.shields.io/badge/My_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FF5722" alt="Resume" />
 </a>
 <a href="https://github.com/owais-khan-zai" target="_blank">
