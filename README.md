@@ -16,7 +16,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-I'm a passionate **MERN Stack Developer** from Pakistan 🇵🇰, dedicated to building modern, scalable web applications with exceptional user experiences. I specialize in creating professional UIs using **React.js** and **Next.js**, enhanced with smooth animations through **GSAP**, **Framer Motion**, **Locomotive Scroll**, and **Lenis**. On the backend, I build robust server-side applications with **Node.js**, **Express.js**, and **MongoDB**, designing secure RESTful APIs that power seamless experiences.
+I'm a passionate **MERN Stack Developer** from Pakistan , dedicated to building modern, scalable web applications with exceptional user experiences. I specialize in creating professional UIs using **React.js** and **Next.js**, enhanced with smooth animations through **GSAP**, **Framer Motion**, **Locomotive Scroll**, and **Lenis**. On the backend, I build robust server-side applications with **Node.js**, **Express.js**, and **MongoDB**, designing secure RESTful APIs that power seamless experiences.
 
 **My approach combines:**
 - Modern, professional UI/UX design with smooth animations
@@ -78,7 +78,7 @@ I'm a passionate **MERN Stack Developer** from Pakistan 🇵🇰, dedicated to b
 
 ## 🎯 Current Focus & Goals
 
-I'm currently mastering **advanced backend development** to build complex, production-ready web applications. My focus includes deepening expertise in **Node.js architecture**, **MongoDB optimization**, **secure authentication systems**, **API optimization**, and **caching strategies**. Alongside this, I'm actively building **multiple full-stack projects** across different domains - from e-commerce platforms to real-time applications - to expand my practical experience and create a diverse portfolio that demonstrates high-quality, professional web solutions.
+I'm currently diving deeper into advanced backend development so I can build more powerful, real‑world applications. Right now, I'm focusing on improving my understanding of Node.js architecture, MongoDB performance, secure authentication, API optimization, and caching techniques. Along the way, I'm also working on multiple full‑stack projects from e‑commerce platforms to real‑time apps. So I can gain practical experience and build a strong, professional portfolio that truly reflects what I can do.
 
 <br/>
 
