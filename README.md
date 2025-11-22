@@ -122,7 +122,7 @@ I'm currently mastering **advanced backend development** to build complex, produ
 ### 📂 Professional Resources
 
 <p align="center">
-  <a href="https://www.canva.com/design/DAG3FweohWg/NGmYBV5mmYPZ-Y5WakqQrA/edit?utm_content=DAG3FweohWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <a href="https://www.canva.com/design/DAG3FweohWg/Gaz8XINAgvuIuKjdU_Op5Q/view?utm_content=DAG3FweohWg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0155420122">
     <img src="https://img.shields.io/badge/📄_Resume-View%20My%20CV-FF5722?style=for-the-badge" alt="Resume" height="40"/>
   </a>
   &nbsp;
